@@ -20,4 +20,4 @@
 
 > ###    [**A Riveting Story: The Satyam Scandal(2009)**](https://github.com/ShravanSinghRathore/CIA/wiki/A-Riveting-Story:-The-Satyam-Scandal-2009)
 
-> [**Linkedin Image Credit:**](https://getsmarteye.com/confidentiality-integrity-availability-basics-of-information-security/)
+> [**Linkedin Image Credit:**](https://getsmarteye.com/confidentiality-integrity-availability-basics-of-information-security/) https://getsmarteye.com/confidentiality-integrity-availability-basics-of-information-security/
