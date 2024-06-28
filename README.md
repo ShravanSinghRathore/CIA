@@ -19,3 +19,5 @@
 > ### 3. [**Availability**](https://github.com/ShravanSinghRathore/CIA/wiki/3.-Availability:-Reliable-Access-to-Information)
 
 > ###    [**A Riveting Story: The Satyam Scandal(2009)**](https://github.com/ShravanSinghRathore/CIA/wiki/A-Riveting-Story:-The-Satyam-Scandal-2009)
+
+> [**Linkedin Image Credit:**](https://getsmarteye.com/confidentiality-integrity-availability-basics-of-information-security/)
