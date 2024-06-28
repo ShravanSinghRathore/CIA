@@ -10,7 +10,7 @@
 
 ***
 
-## To know more in detail: 
+## **To know more in detail:** 
 
 > ### 1. [**Confidentiality**](https://github.com/ShravanSinghRathore/CIA/wiki/1.-Confidentiality:--Keeping-Secrets-Safe)
 
@@ -20,5 +20,5 @@
 
 > ###    [**A Riveting Story: The Satyam Scandal(2009)**](https://github.com/ShravanSinghRathore/CIA/wiki/A-Riveting-Story:-The-Satyam-Scandal-2009)
 
-> ## **Linkedin Image Credit:**
+## **Linkedin Image Credit:**
 [![SMART-EYE-LOGO-1536x191](https://github.com/ShravanSinghRathore/CIA/assets/161594463/b735087c-e6f9-4451-8bd2-90d786bb262b)](![SMART-EYE-LOGO-1536x191](https://github.com/ShravanSinghRathore/CIA/assets/161594463/b735087c-e6f9-4451-8bd2-90d786bb262b))
